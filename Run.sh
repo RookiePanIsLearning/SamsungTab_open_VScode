@@ -1,7 +1,5 @@
 #!/bin/bash
 
-
-
 # Login Ubuntu
 proot-distro login ubuntu
 

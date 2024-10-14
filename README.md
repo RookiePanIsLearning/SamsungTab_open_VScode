@@ -10,5 +10,5 @@ Reference : [How to install VS Code in an Android Phone](https://www.codewithhar
 
 
 ```
- git clone 
+ git clone https://github.com/RookiePanIsLearning/SamsungTab_open_VScode/blob/main/Run.sh
 ```

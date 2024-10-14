@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Open localhost:8080 with Chrome
+open -a http://localhost:8080/login
+
 # Login Ubuntu
 proot-distro login ubuntu
 
@@ -11,6 +14,5 @@ cd bin
 export PASSWORD="Piers841228"
 ./code-server
 
-# Open localhost:8080 with Chrome
-open -a http://localhost:8080/login
+
 

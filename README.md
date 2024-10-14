@@ -6,9 +6,16 @@
 
 &ensp;- 2. To create host and open Chrome. 
 
-Reference : [How to install VS Code in an Android Phone](https://www.codewithharry.com/blogpost/install-vs-code-in-android/)
-
+**Reference :** 
+- 1. [How to install VS Code in an Android Phone](https://www.codewithharry.com/blogpost/install-vs-code-in-android/)
+- 2. [Curl Grammer](https://www.cjkuo.net/linux-curl-detail/)
 
 ```
- git clone https://github.com/RookiePanIsLearning/SamsungTab_open_VScode/blob/main/Run.sh
+// Using curl
+curl -fsSL https://github.com/RookiePanIsLearning/SamsungTab_open_VScode/blob/0b7e05ca33e4ce270fee96ed0c6eb0fbcc62ff1b/Run.sh | sh
+```
+
+```
+Wrong grammer
+ (x) git clone https://github.com/RookiePanIsLearning/SamsungTab_open_VScode/blob/main/Run.sh
 ```

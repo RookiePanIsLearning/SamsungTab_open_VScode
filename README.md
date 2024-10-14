@@ -7,3 +7,8 @@
 &ensp;- 2. To create host and open Chrome. 
 
 Reference : [How to install VS Code in an Android Phone](https://www.codewithharry.com/blogpost/install-vs-code-in-android/)
+
+
+```
+ git clone 
+```

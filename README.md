@@ -7,7 +7,9 @@
 &ensp;- 2. To create host and open Chrome. 
 
 **Reference :** 
+
 &ensp;- 1. [How to install VS Code in an Android Phone](https://www.codewithharry.com/blogpost/install-vs-code-in-android/)
+
 &ensp;- 2. [Curl Grammer](https://www.cjkuo.net/linux-curl-detail/)
 
 ```

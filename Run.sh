@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Login Ubuntu
+proot-distro login ubuntu
+
 # Current Direct to Samsung Tab S9+'s code-server folder. 
 cd code-server-4.16.1-linux-arm64
 cd bin

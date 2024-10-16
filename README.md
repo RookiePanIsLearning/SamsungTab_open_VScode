@@ -13,8 +13,11 @@
 &ensp;- 2. [Curl Grammer](https://www.cjkuo.net/linux-curl-detail/)
 
 ```
-curl -fsSL https://github.com/RookiePanIsLearning/SamsungTab_open_VScode/blob/0b7e05ca33e4ce270fee96ed0c6eb0fbcc62ff1b/Run.sh | sh
+curl -fsSL "ttps://github.com/RookiePanIsLearning/SamsungTab_open_VScode/blob/0b7e05ca33e4ce270fee96ed0c6eb0fbcc62ff1b/Run.sh" | sh
 ```
+
+Remember to use escape symbol 
+Use quote between url 
 
 ```
 Wrong grammer
